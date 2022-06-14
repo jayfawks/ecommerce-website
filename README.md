@@ -1,6 +1,8 @@
 # E-Commerce Website
 Ecommerce Website is a group project to create an online selling platform
 
+https://chromerce.great-site.net/index.php
+
 Course: SOEN 287 of Fall 2020
 
 # Languages 
